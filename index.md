@@ -1,3 +1,5 @@
+[Lab Report 1](https://fatcatoops.github.io/cse15l-lab-reports/lab-report-1-week-2.html)
+
 *hello*
 **cse15L lab**
 # hello
