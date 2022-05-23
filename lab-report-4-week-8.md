@@ -2,7 +2,6 @@
 
 * ## Link
     [my repository](https://github.com/FatCaToops/markdown-parser)
-    [another repository]()
 
 * ## Test
     * **result**
