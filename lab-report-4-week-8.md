@@ -11,6 +11,8 @@
 
         ![test code](lab4_testcode.png)
 
+        ![test code](lab_report4_TestCodeReviewed.png)
+
         * Snippet1.md:
 
             expected output:
