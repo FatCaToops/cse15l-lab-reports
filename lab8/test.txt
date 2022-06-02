@@ -1,0 +1,2 @@
+debug-test: LinkedListTest.class
+	Jdb -classpath $(CLASSPATH) org.junit.runner.JUnitCore LinkedListTest
